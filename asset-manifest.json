@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/manhar-portfolio-latest/static/css/main.c14134ee.css",
+    "main.js": "/manhar-portfolio-latest/static/js/main.b51eb6a2.js",
+    "index.html": "/manhar-portfolio-latest/index.html",
+    "main.c14134ee.css.map": "/manhar-portfolio-latest/static/css/main.c14134ee.css.map",
+    "main.b51eb6a2.js.map": "/manhar-portfolio-latest/static/js/main.b51eb6a2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c14134ee.css",
+    "static/js/main.b51eb6a2.js"
+  ]
+}
