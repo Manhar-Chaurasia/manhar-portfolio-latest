@@ -8,7 +8,7 @@ const About = () => {
         <div className="about-section my-14 md:w-7/12">
           <span className="text-3xl font-bold flex mb-5">About Me</span>
           <p className="text-sm mb-14">
-            I am a final year student pursuing Bachelor's of Computer
+            I've completed my Bachelor's of Computer
             Application from IITM, New Delhi. Affiliated with Guru Gobind Singh
             Indraprastha University. I am always ready to face new challenges
             and to learn new things.
@@ -27,7 +27,7 @@ const About = () => {
                 Regular
               </span>
               <div className="flex items-center justify-between space-x-1 text-sm">
-                <span className="hidden md:block">
+                <span className="hidden md:block mt-1">
                   <IoCalendarOutline />
                 </span>
                 <p className="text-[0.70rem] mt-2 text-neutral-400">
@@ -53,10 +53,8 @@ const About = () => {
                 Onsite
               </span>
               <div className="flex items-center justify-between space-x-1 text-sm">
-                <span className="hidden md:block">
-                  <span className="hidden md:block">
-                    <IoCalendarOutline />
-                  </span>
+                <span className="hidden md:block mt-2">
+                  <IoCalendarOutline />
                 </span>
                 <p className="text-[0.6rem] md:text-[0.70rem] mt-2 text-neutral-400">
                   Sep 2023 - Oct 2023
@@ -78,10 +76,8 @@ const About = () => {
                 Virtual
               </span>
               <div className="flex items-center justify-between space-x-1 text-sm">
-                <span className="hidden md:block">
-                  <span className="hidden md:block">
-                    <IoCalendarOutline />
-                  </span>
+                <span className="hidden md:block mt-1">
+                  <IoCalendarOutline />
                 </span>
                 <p className="text-[0.6rem] md:text-[0.70rem] mt-2 text-neutral-400">
                   Jul 2023 - Aug 2023
@@ -103,7 +99,7 @@ const About = () => {
                 Virtual
               </span>
               <div className="flex items-center justify-between space-x-1 text-sm">
-                <span className="hidden md:block">
+                <span className="hidden md:block mt-2">
                   <IoCalendarOutline />
                 </span>
                 <p className="text-[0.6rem] md:text-[0.70rem] mt-2 text-neutral-400">

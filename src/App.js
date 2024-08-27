@@ -1,5 +1,5 @@
 import React from "react";
-import { BrowserRouter, Route, Routes } from "react-router-dom";
+import { HashRouter, Route, Routes } from "react-router-dom";
 import Home from "./components/Home";
 import About from "./components/About";
 import TechStack from "./components/TechStack";
@@ -11,7 +11,7 @@ import Contact from "./components/Contact";
 const App = () => {
   return (
     <>
-      <BrowserRouter>
+      <HashRouter>
         <Navbar />
         <Routes>
           <Route path="/" element={<Home />} />
@@ -20,7 +20,7 @@ const App = () => {
           <Route path="/projects" element={<Projects />} />
         </Routes>
         <Contact />
-      </BrowserRouter>
+      </HashRouter>
       {/* <span className="text-2xl text-white bg-[#191919]">Hello</span> */}
     </>
   );

@@ -16,7 +16,7 @@ const Home = () => {
               Manhar Chaurasia
             </span>
             <br />
-            <span>FrontEnd Developer</span>
+            <span>Frontend Developer</span>
             <br />
           </div>
           <div className="right">
