@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/manhar-portfolio-latest/static/css/main.c14134ee.css",
-    "main.js": "/manhar-portfolio-latest/static/js/main.d82d700e.js",
+    "main.css": "/manhar-portfolio-latest/static/css/main.392f6736.css",
+    "main.js": "/manhar-portfolio-latest/static/js/main.09661d9d.js",
     "index.html": "/manhar-portfolio-latest/index.html",
-    "main.c14134ee.css.map": "/manhar-portfolio-latest/static/css/main.c14134ee.css.map",
-    "main.d82d700e.js.map": "/manhar-portfolio-latest/static/js/main.d82d700e.js.map"
+    "main.392f6736.css.map": "/manhar-portfolio-latest/static/css/main.392f6736.css.map",
+    "main.09661d9d.js.map": "/manhar-portfolio-latest/static/js/main.09661d9d.js.map"
   },
   "entrypoints": [
-    "static/css/main.c14134ee.css",
-    "static/js/main.d82d700e.js"
+    "static/css/main.392f6736.css",
+    "static/js/main.09661d9d.js"
   ]
 }
