@@ -11,7 +11,7 @@ const Contact = () => {
 
         <div className="flex flex-col">
           <span className="text-2xl md:text-4xl">
-            For any questions please mail:
+            For any queries please mail:
           </span>
           <a
             href="mailto:manharchaurasia100@gmail.com"

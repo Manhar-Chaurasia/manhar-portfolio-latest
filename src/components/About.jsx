@@ -9,7 +9,7 @@ const About = () => {
           <span className="text-3xl font-bold flex mb-5">About Me</span>
           <p className="text-sm mb-14">
             I've completed my Bachelor's of Computer
-            Application from IITM, New Delhi. Affiliated with Guru Gobind Singh
+            Application from IITM New Delhi, Affiliated with Guru Gobind Singh
             Indraprastha University. I am always ready to face new challenges
             and to learn new things.
           </p>
@@ -39,6 +39,31 @@ const About = () => {
           <hr className="mt-5 bg-neutral-700 border-0 h-px my-7" />
 
           <span className="text-3xl font-bold flex mb-5">Work Experience</span>
+          <div className="flex justify-between items-center">
+            <div className="edu-left">
+              <p className="text-sm md:text-base">
+                Full Stack Developer (Full time)
+              </p>
+              <p className="text-[0.5rem] md:text-[0.70rem] text-neutral-400 mt-2">
+                Grorapid Labs
+              </p>
+            </div>
+            <div className="edu-right">
+              <span className="text-xs text-white px-2 bg-gradient-to-r from-blue-700 via-purple-700 to-pink-500 rounded-full">
+                Onsite
+              </span>
+              <div className="flex items-center justify-between space-x-1 text-sm">
+                <span className="hidden md:block mt-2">
+                  <IoCalendarOutline />
+                </span>
+                <p className="text-[0.6rem] md:text-[0.70rem] mt-2 text-neutral-400">
+                  Jul 2024 - Oct 2024
+                </p>
+              </div>
+            </div>
+          </div>
+          <hr className="mt-5 bg-neutral-700 border-0 h-px my-7" />
+
           <div className="flex justify-between items-center">
             <div className="edu-left">
               <p className="text-sm md:text-base">
@@ -73,7 +98,7 @@ const About = () => {
             </div>
             <div className="edu-right">
               <span className="text-xs px-2 bg-[#363636] rounded-full">
-                Virtual
+                Hybrid
               </span>
               <div className="flex items-center justify-between space-x-1 text-sm">
                 <span className="hidden md:block mt-1">

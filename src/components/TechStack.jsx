@@ -73,6 +73,22 @@ const TechStack = () => {
           </div>
           <div className="flex flex-col space-y-2 items-center w-10 md:w-20">
             <img
+              src={process.env.PUBLIC_URL + "/assets/nodejs-logo.png"}
+              className=""
+              alt="github-logo"
+            />
+            <span className="text-[0.7rem]">NodeJs</span>
+          </div>
+          <div className="flex flex-col space-y-2 items-center w-10 md:w-20">
+            <img
+              src={process.env.PUBLIC_URL + "/assets/mongodb-logo.png"}
+              className=""
+              alt="github-logo"
+            />
+            <span className="text-[0.7rem]">MongoDB</span>
+          </div>
+          <div className="flex flex-col space-y-2 items-center w-10 md:w-20">
+            <img
               src={process.env.PUBLIC_URL + "/assets/git-logo.png"}
               className=""
               alt="git-logo"
